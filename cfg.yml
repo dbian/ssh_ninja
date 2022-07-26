@@ -1,0 +1,5 @@
+hosts:
+  - root@10.1.1.1
+  - root@10.1.1.1
+cmd:
+  -p 5022 ls -ahl
